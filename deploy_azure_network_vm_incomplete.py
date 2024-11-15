@@ -22,9 +22,13 @@ network_client.virtual_networks.begin_create_or_update(rg_name, vnet_name, {}).r
 # No subnet, NIC, or VM configurations provided
 
 
+# Lots of love x
+=======
+
 #Hello everyone.
 
 #This is our first activity
 =======
 #Rosie - Hey!
+
 
