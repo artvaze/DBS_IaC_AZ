@@ -8,7 +8,7 @@ from azure.mgmt.network import NetworkManagementClient
 subscription_id = "missing-subscription-id"
 credentials = DefaultAzureCredential()
 
-resource_client = ResourceManagementClient(credentials, subscription_id)
+resource_client = ResourceManagementClient(credentials, subscription_id) #felipe
 
 # Resource group creation (location is missing)
 rg_name = "TestResourceGroup"
