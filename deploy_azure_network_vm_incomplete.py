@@ -20,3 +20,5 @@ network_client = NetworkManagementClient(credentials, subscription_id)
 network_client.virtual_networks.begin_create_or_update(rg_name, vnet_name, {}).result()
 
 # No subnet, NIC, or VM configurations provided
+
+# Lots of love x
